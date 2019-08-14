@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Courier-New, Courier, monospace;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 3em
+}
+
+.action {
+  font-style: italic;
+}
+
+#aLongTimeAgo {
+  color: dodgerblue;
+}
+
+#crawl {
+  color: yellow;
+}
+
+p {
+  padding: 10px;
+  border: 4px dashed green;
+  margin: 20px;
+  background-color: blue;
+}
+img {
+  margin: 0 auto;
+  width: 300px;
+  align: center;
+}
